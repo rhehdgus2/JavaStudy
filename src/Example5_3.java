@@ -17,5 +17,3 @@ public class Example5_3 {
 		System.out.println("최소값 : " + min);
 	}  // end of main
 }  // end of class
-
-

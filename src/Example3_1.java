@@ -7,5 +7,3 @@ public class Example3_1 {
 		System.out.println("y=" +y);
 	}
 }
-
-
